@@ -9,9 +9,12 @@
   "dependencies": {
     "@okta/jwt-verifier": "^3.2.2",
     "@okta/oidc-middleware": "^5.3.0",
+    "axios": "^1.7.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "follow-redirects": "^1.15.6",
+    "request": "^2.88.2"
   },
   "keywords": [],
   "author": "",
